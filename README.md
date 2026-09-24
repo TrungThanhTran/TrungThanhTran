@@ -33,14 +33,22 @@ Efficient, trustworthy **multimodal AI for real-world systems** — foundation m
 
 ### 🧪 Selected Projects
 
-| Project | What | Highlight |
-|---|---|---|
-| [**FaceAge**](https://huggingface.co/TrungTran/faceage_ClientScan) | Face-only age &amp; gender estimation (DINOv3 + CORAL) | MAE 3.58 · #1 non-LLM · open weights + ONNX |
-| **Auto Review** (Pixta) | Automated media quality review | 30K+ images/day · ~70% lower cost · 99.5% precision |
-| [**ClientScan**](https://www.clientscan.co.uk/) | Enterprise facial recognition &amp; age verification | &gt;99.4% accuracy @ 30 FPS · UK regulated sectors |
-| **Learning-to-Rank** (Pixta) | Search re-ranking (LightGBM) | ~6% revenue lift |
-| [**TakeNote.ai**](https://takenote.ai/) | Voice AI meeting assistant | transcription · diarization · summarization |
-| **AI Agent Automation** | Multi-model agents for daily eng/research workflows | Claude Code + Gemini + Langfuse |
+**🤖 Agentic AI &amp; LLM systems**
+- **AI Agent Automation** — a suite of multi-model agents automating daily engineering &amp; research: automated **code review &amp; PR summarization**, **ArXiv literature monitoring**, **meeting preparation**, **data-pipeline health checks**, and **report drafting**. Built with **Claude Code + Gemini** orchestration, **Langfuse** observability, and LLM-security guardrails (prompt-injection defence, output validation, audit logging).
+- **LLM-powered internal assistants** (Pixta) — RAG + tool-using assistants for content and workflow support (~$10K/year saved).
+- **Conversational &amp; voice agents** — [TakeNote.ai](https://takenote.ai/) meeting assistant (transcription · diarization · summarization); Sorgenia voice bot (Italy's first energy-sector voice bot, Pi School); Panasonic multi-domain dialog system.
+
+**🧠 Foundation models &amp; research**
+- [**FaceAge**](https://huggingface.co/TrungTran/faceage_ClientScan) — face-only age &amp; gender estimation (DINOv3-ViT-L/16 + CORAL) · **MAE 3.58 on LAGENDA 84k · #1 among non-LLM methods** · open weights + ONNX.
+- **CAMELLIA** — cultural-bias benchmark for LLMs in Asian languages · **EMNLP 2026 (Main Conference)**.
+- **Foundation Models on Edge** (Fatima Fellowship) — efficient memory/inference for LLMs &amp; VLMs on **NVIDIA Jetson**.
+
+**👁️ Computer vision in production (Pixta / ClientScan)**
+- **Auto Review** — automated media quality review · **30K+ images/day · ~70% lower cost · 99.5% precision**.
+- [**ClientScan**](https://www.clientscan.co.uk/) — enterprise facial recognition &amp; age verification · **&gt;99.4% accuracy @ 30 FPS** · UK regulated sectors.
+- **Learning-to-Rank** — search re-ranking (LightGBM) · **~6% revenue lift**.
+- **Tag Suggestion** — large-scale visual auto-annotation · **25K+ categories** (Vision Transformer).
+- **AI Image Generation** — Stable Diffusion + LoRA for commercial stock photography.
 
 ### 💼 Experience
 
