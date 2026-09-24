@@ -30,8 +30,26 @@ Efficient, trustworthy **multimodal AI for real-world systems** — foundation m
 
 - 🎉 **CAMELLIA** — cultural-bias benchmark for LLMs in Asian languages, **accepted to EMNLP 2026 (Main Conference, 15.4% acceptance)**
 - 🧑‍🔬 **FaceAge** — face-only age estimation (DINOv3-ViT-L/16 + CORAL), **MAE 3.58 on LAGENDA 84k**, #1 among non-LLM methods · [model](https://huggingface.co/TrungTran/faceage_ClientScan)
-- 🏭 **Auto Review** (Pixta) — automated media QA at **30K+ images/day**, ~70% lower review cost, 99.5% precision
-- 🔎 **Learning-to-Rank** (Pixta) — search re-ranking, **~6% revenue lift**
+
+### 🧪 Selected Projects
+
+| Project | What | Highlight |
+|---|---|---|
+| [**FaceAge**](https://huggingface.co/TrungTran/faceage_ClientScan) | Face-only age &amp; gender estimation (DINOv3 + CORAL) | MAE 3.58 · #1 non-LLM · open weights + ONNX |
+| **Auto Review** (Pixta) | Automated media quality review | 30K+ images/day · ~70% lower cost · 99.5% precision |
+| [**ClientScan**](https://www.clientscan.co.uk/) | Enterprise facial recognition &amp; age verification | &gt;99.4% accuracy @ 30 FPS · UK regulated sectors |
+| **Learning-to-Rank** (Pixta) | Search re-ranking (LightGBM) | ~6% revenue lift |
+| [**TakeNote.ai**](https://takenote.ai/) | Voice AI meeting assistant | transcription · diarization · summarization |
+| **AI Agent Automation** | Multi-model agents for daily eng/research workflows | Claude Code + Gemini + Langfuse |
+
+### 💼 Experience
+
+- **2026 – Present** — Head of AI &amp; Program Manager, PixtaStock — Pixta Vietnam (PIXTA Inc., Japan)
+- **2019 – 2026** — AI Expert / Senior AI Engineer — Pixta Vietnam
+- **2023 – Present** — Co-founder &amp; AI Architect — ClientScan, Oxford, UK
+- **2023 – Present** — Co-founder — TakeNote.ai, Oxford, UK
+- **2018** — AI Fellow — Pi School, Rome, Italy
+- **2015 – 2018** — Technical Leader &amp; AI Engineer — Panasonic R&amp;D Center, Hanoi
 
 ### 🛠️ Tech
 
