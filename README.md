@@ -43,10 +43,10 @@ Efficient, trustworthy **multimodal AI for real-world systems** — foundation m
 - **CAMELLIA** — cultural-bias benchmark for LLMs in Asian languages · **EMNLP 2026 (Main Conference)**.
 - **Foundation Models on Edge** (Fatima Fellowship) — efficient memory/inference for LLMs &amp; VLMs on **NVIDIA Jetson**.
 
-**👁️ Computer vision in production (Pixta / ClientScan)**
-- **Auto Review** — automated media quality review · **30K+ images/day · ~70% lower cost · 99.5% precision**.
+**🏭 Production ML at scale (Pixta / ClientScan)**
+- **Auto Review** — automated media quality review (computer vision) · **30K+ images/day · ~70% lower cost · 99.5% precision**.
 - [**ClientScan**](https://www.clientscan.co.uk/) — enterprise facial recognition &amp; age verification · **&gt;99.4% accuracy @ 30 FPS** · UK regulated sectors.
-- **Learning-to-Rank** — search re-ranking (LightGBM) · **~6% revenue lift**.
+- **Learning-to-Rank** — search re-ranking / information retrieval (LightGBM) · **~6% revenue lift**.
 - **Tag Suggestion** — large-scale visual auto-annotation · **25K+ categories** (Vision Transformer).
 - **AI Image Generation** — Stable Diffusion + LoRA for commercial stock photography.
 
