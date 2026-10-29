@@ -27,14 +27,6 @@ AI researcher and engineer with **10+ years** building production AI systems acr
 
 Efficient, trustworthy **multimodal AI for real-world systems** — foundation models, vision-language models, on-device (edge) AI, and optimized agents.
 
-### 🧭 How I build &amp; lead AI
-
-The path from engineer → architect → AI leadership:
-
-- **Business first** — start from the problem and the numbers it should move, not the model.
-- **Architect the system** — design the end-to-end AI architecture: data, models, serving, guardrails, MLOps, and the key trade-offs (model selection, retrieval vs fine-tuning, edge vs cloud, when to use agents).
-- **Drive adoption** — lead the rollout into production and the teams and workflows that come to depend on it.
-
 ### ✨ Highlights
 
 - 🎉 **CAMELLIA** — cultural-bias benchmark for LLMs in Asian languages, **accepted to EMNLP 2026 (Main Conference, 15.4% acceptance)**
