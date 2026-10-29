@@ -65,6 +65,8 @@ The path from engineer → architect → AI leadership:
 - **2019 – 2026** — AI Expert / Senior AI Engineer — Pixta Vietnam
 - **2022 – Present** — Co-founder &amp; AI Architect — ClientScan, Oxford, UK
 - **2021 – Present** — Co-founder — TakeNote.ai, Oxford, UK
+- **2026 – Present** — Mentor — [Vingroup 20,000 Applied AI Talent Program (AI20K)](https://vinuni.edu.vn/vingroup-accelerates-the-vingroup-20000-applied-ai-talent-program/)
+- **2025 – Present** — Startup Mentor &amp; AI Advisor — [VNU Innovation &amp; Startup Incubator (VISI)](https://visi.vnu.edu.vn/)
 - **2018** — AI Fellow — Pi School, Rome, Italy
 - **2015 – 2018** — Technical Leader &amp; AI Engineer — Panasonic R&amp;D Center, Hanoi
 
