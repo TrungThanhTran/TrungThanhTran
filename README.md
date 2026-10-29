@@ -1,9 +1,10 @@
 <h1 align="center">Trung Thanh Tran</h1>
 <p align="center"><b>Applied AI Researcher &amp; Builder</b></p>
+<p align="center">AI Architect — designing how AI gets adopted across the organization</p>
 <p align="center"><i>I turn frontier research into large-scale AI systems in production — then feed what I learn back into new research.</i></p>
 
 <p align="center">
-  <a href="https://trungthanhtran.github.io/">Website</a> ·
+  <a href="https://trungthanhtran.com/">Website</a> ·
   <a href="https://scholar.google.com/citations?user=jLO3i8wAAAAJ&hl=en">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/trungthanhtran/">LinkedIn</a> ·
   <a href="https://huggingface.co/TrungTran">Hugging Face</a> ·
@@ -25,6 +26,14 @@ AI researcher and engineer with **10+ years** building production AI systems acr
 ### 🔬 Research focus
 
 Efficient, trustworthy **multimodal AI for real-world systems** — foundation models, vision-language models, on-device (edge) AI, and optimized agents.
+
+### 🧭 How I build &amp; lead AI
+
+The path from engineer → architect → AI leadership:
+
+- **Business first** — start from the problem and the numbers it should move, not the model.
+- **Architect the system** — design the end-to-end AI architecture: data, models, serving, guardrails, MLOps, and the key trade-offs (model selection, retrieval vs fine-tuning, edge vs cloud, when to use agents).
+- **Drive adoption** — lead the rollout into production and the teams and workflows that come to depend on it.
 
 ### ✨ Highlights
 
@@ -54,8 +63,8 @@ Efficient, trustworthy **multimodal AI for real-world systems** — foundation m
 
 - **2026 – Present** — Head of AI &amp; Program Manager, PixtaStock — Pixta Vietnam (PIXTA Inc., Japan)
 - **2019 – 2026** — AI Expert / Senior AI Engineer — Pixta Vietnam
-- **2023 – Present** — Co-founder &amp; AI Architect — ClientScan, Oxford, UK
-- **2023 – Present** — Co-founder — TakeNote.ai, Oxford, UK
+- **2022 – Present** — Co-founder &amp; AI Architect — ClientScan, Oxford, UK
+- **2021 – Present** — Co-founder — TakeNote.ai, Oxford, UK
 - **2018** — AI Fellow — Pi School, Rome, Italy
 - **2015 – 2018** — Technical Leader &amp; AI Engineer — Panasonic R&amp;D Center, Hanoi
 
@@ -66,4 +75,4 @@ Efficient, trustworthy **multimodal AI for real-world systems** — foundation m
 
 ---
 
-<p align="center"><i>Open to AI consulting, research collaboration, and senior AI engineering roles.</i></p>
+<p align="center"><i>Open to AI leadership (Head of AI · AI Architect · emerging CAIO), AI consulting &amp; enterprise AI adoption, research collaboration, and senior AI roles.</i></p>
