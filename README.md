@@ -16,9 +16,9 @@
 
 ### 👋 About
 
-AI researcher and engineer with **10+ years** building production AI systems across computer vision, search, speech, and LLMs.
+AI researcher, engineer and architect with **10+ years** building production AI across computer vision, NLP, voice, foundation models and agents — adopting each new frontier fast (DINOv3, LLMs/RAG, on-device, multi-agent) and owning real products across the **Vietnam, Japan and UK** markets.
 
-- 🧠 **Head of AI & Program Manager, PixtaStock** — [Pixta Vietnam](https://pixta.vn/) (PIXTA Inc., Japan)
+- 🧠 **Head of AI & Program Manager, PixtaStock** — [Pixta Vietnam](https://pixta.vn/) (PIXTA Inc., Japan) · grew from senior engineer to Head of AI over 7 years
 - 🚀 **Co-founder & AI Architect** — [ClientScan](https://www.clientscan.co.uk/) (Oxford, UK) · facial recognition &amp; age verification
 - 🎙️ **Co-founder** — [TakeNote.ai](https://takenote.ai/) · voice AI for meetings
 - 📚 Technical book reviewer at **Manning Publications**
